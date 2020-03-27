@@ -1,0 +1,168 @@
+Execution Stack -> [( Ref(int)  v, ( new( v, 20 ), ( Ref(Ref(int))  a, ( new( v, 20 ), ( print v, print a ) ) ) ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( v, 20 ), ( print v, print a ) ) ) ), Ref(int)  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( v, 20 ), ( print v, print a ) ) ) ), Ref(int)  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( v, 20 ), ( print v, print a ) ) ) )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( v, 20 ), ( print v, print a ) ) ) )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( v, 20 ), ( print v, print a ) ) ), new( v, 20 )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( v, 20 ), ( print v, print a ) ) ), new( v, 20 )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( v, 20 ), ( print v, print a ) ) )]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> {1=20}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( v, 20 ), ( print v, print a ) ) )]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> {1=20}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( print v, print a ) ), Ref(Ref(int))  a]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> {1=20}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( print v, print a ) ), Ref(Ref(int))  a]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> {1=20}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( print v, print a ) )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> {1=20}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( print v, print a ) )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> {1=20}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print v, print a ), new( v, 20 )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> {1=20}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print v, print a ), new( v, 20 )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> {1=20}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(int)  v, ( new( v, 20 ), new( v, 30 ) ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), new( v, 30 ) ), Ref(int)  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), new( v, 30 ) ), Ref(int)  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), new( v, 30 ) )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), new( v, 30 ) )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [new( v, 30 ), new( v, 20 )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [new( v, 30 ), new( v, 20 )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [new( v, 30 )]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> {1=20}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [new( v, 30 )]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> {1=20}
+
+--------------------------------------------------------------------------------

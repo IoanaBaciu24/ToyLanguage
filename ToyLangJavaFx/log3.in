@@ -1,0 +1,792 @@
+Thread id:
+1
+ExeStack:
+[(string varf;(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))))]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))))]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))), varf=leTest.txt]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))), varf=leTest.txt]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))), opening varf]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))), opening varf]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@5291460e}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@5291460e}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))), int varc]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@5291460e}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))), int varc]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@5291460e}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@5291460e}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(string varf;(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))))]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))))]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))), varf=leTest.txt]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))), varf=leTest.txt]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))), opening varf]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))), opening varf]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))), int varc]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))), int varc]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(print varc;(reading varc varf;(print varc;close varf))), reading varc varf]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(print varc;(reading varc varf;(print varc;close varf))), reading varc varf]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(print varc;(reading varc varf;(print varc;close varf)))]
+SymTable:
+{varf=leTest.txt, varc=10}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(print varc;(reading varc varf;(print varc;close varf)))]
+SymTable:
+{varf=leTest.txt, varc=10}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(reading varc varf;(print varc;close varf)), print varc]
+SymTable:
+{varf=leTest.txt, varc=10}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(reading varc varf;(print varc;close varf)), print varc]
+SymTable:
+{varf=leTest.txt, varc=10}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(reading varc varf;(print varc;close varf))]
+SymTable:
+{varf=leTest.txt, varc=10}
+Out:
+[10]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(reading varc varf;(print varc;close varf))]
+SymTable:
+{varf=leTest.txt, varc=10}
+Out:
+[10]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(print varc;close varf), reading varc varf]
+SymTable:
+{varf=leTest.txt, varc=10}
+Out:
+[10]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(print varc;close varf), reading varc varf]
+SymTable:
+{varf=leTest.txt, varc=10}
+Out:
+[10]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(print varc;close varf)]
+SymTable:
+{varf=leTest.txt, varc=15}
+Out:
+[10]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(print varc;close varf)]
+SymTable:
+{varf=leTest.txt, varc=15}
+Out:
+[10]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[close varf, print varc]
+SymTable:
+{varf=leTest.txt, varc=15}
+Out:
+[10]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[close varf, print varc]
+SymTable:
+{varf=leTest.txt, varc=15}
+Out:
+[10]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[close varf]
+SymTable:
+{varf=leTest.txt, varc=15}
+Out:
+[10, 15]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[close varf]
+SymTable:
+{varf=leTest.txt, varc=15}
+Out:
+[10, 15]
+FileTable:
+{leTest.txt=java.io.BufferedReader@1719d6be}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{varf=leTest.txt, varc=15}
+Out:
+[10, 15]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{varf=leTest.txt, varc=15}
+Out:
+[10, 15]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{varf=leTest.txt, varc=15}
+Out:
+[10, 15]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(string varf;(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))))]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))))]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))), varf=leTest.txt]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))), varf=leTest.txt]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))), opening varf]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))), opening varf]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@c77f4e8}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@c77f4e8}
+HeapTable
+{}
+Thread id:
+5
+ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))), int varc]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@c77f4e8}
+HeapTable
+{}

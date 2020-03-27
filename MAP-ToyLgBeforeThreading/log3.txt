@@ -1,0 +1,454 @@
+Execution Stack -> [( bool  a, ( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) ), bool  a]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) ), bool  a]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) )]
+Symbols Table -> {a=false}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) )]
+Symbols Table -> {a=false}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ), int  v]
+Symbols Table -> {a=false}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ), int  v]
+Symbols Table -> {a=false}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( a=true, ( if(a)
+ then v=2
+else v=3, print v ) )]
+Symbols Table -> {a=false, v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( a=true, ( if(a)
+ then v=2
+else v=3, print v ) )]
+Symbols Table -> {a=false, v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( if(a)
+ then v=2
+else v=3, print v ), a=true]
+Symbols Table -> {a=false, v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( if(a)
+ then v=2
+else v=3, print v ), a=true]
+Symbols Table -> {a=false, v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( if(a)
+ then v=2
+else v=3, print v )]
+Symbols Table -> {a=true, v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( if(a)
+ then v=2
+else v=3, print v )]
+Symbols Table -> {a=true, v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, if(a)
+ then v=2
+else v=3]
+Symbols Table -> {a=true, v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, if(a)
+ then v=2
+else v=3]
+Symbols Table -> {a=true, v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v]
+Symbols Table -> {a=true, v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {a=true, v=0}
+Out -> [0]
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {a=true, v=0}
+Out -> [0]
+FileTable -> {}
+Heap -> Container.Heap@6737fd8f
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( bool  a, ( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) ), bool  a]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) ), bool  a]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) )]
+Symbols Table -> {a=false}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) )]
+Symbols Table -> {a=false}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ), int  v]
+Symbols Table -> {a=false}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ), int  v]
+Symbols Table -> {a=false}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( a=true, ( if(a)
+ then v=2
+else v=3, print v ) )]
+Symbols Table -> {a=false, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( a=true, ( if(a)
+ then v=2
+else v=3, print v ) )]
+Symbols Table -> {a=false, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( if(a)
+ then v=2
+else v=3, print v ), a=true]
+Symbols Table -> {a=false, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( if(a)
+ then v=2
+else v=3, print v ), a=true]
+Symbols Table -> {a=false, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( if(a)
+ then v=2
+else v=3, print v )]
+Symbols Table -> {a=true, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( if(a)
+ then v=2
+else v=3, print v )]
+Symbols Table -> {a=true, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, if(a)
+ then v=2
+else v=3]
+Symbols Table -> {a=true, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, if(a)
+ then v=2
+else v=3]
+Symbols Table -> {a=true, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( bool  a, ( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) ), bool  a]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) ), bool  a]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) )]
+Symbols Table -> {a=false}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ) )]
+Symbols Table -> {a=false}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ), int  v]
+Symbols Table -> {a=false}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( a=true, ( if(a)
+ then v=2
+else v=3, print v ) ), int  v]
+Symbols Table -> {a=false}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( a=true, ( if(a)
+ then v=2
+else v=3, print v ) )]
+Symbols Table -> {a=false, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( a=true, ( if(a)
+ then v=2
+else v=3, print v ) )]
+Symbols Table -> {a=false, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( if(a)
+ then v=2
+else v=3, print v ), a=true]
+Symbols Table -> {a=false, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( if(a)
+ then v=2
+else v=3, print v ), a=true]
+Symbols Table -> {a=false, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( if(a)
+ then v=2
+else v=3, print v )]
+Symbols Table -> {a=true, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( if(a)
+ then v=2
+else v=3, print v )]
+Symbols Table -> {a=true, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, if(a)
+ then v=2
+else v=3]
+Symbols Table -> {a=true, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, if(a)
+ then v=2
+else v=3]
+Symbols Table -> {a=true, v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v]
+Symbols Table -> {a=true, v=3}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v]
+Symbols Table -> {a=true, v=3}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {a=true, v=3}
+Out -> [3]
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {a=true, v=3}
+Out -> [3]
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------

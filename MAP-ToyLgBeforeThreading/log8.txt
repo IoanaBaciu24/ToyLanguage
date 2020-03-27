@@ -1,0 +1,350 @@
+Execution Stack -> [( int  v, ( v=4, ( while v > 0 do ( print v, v=v - 1 ), print v ) ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=4, ( while v > 0 do ( print v, v=v - 1 ), print v ) ), int  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=4, ( while v > 0 do ( print v, v=v - 1 ), print v ) ), int  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=4, ( while v > 0 do ( print v, v=v - 1 ), print v ) )]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=4, ( while v > 0 do ( print v, v=v - 1 ), print v ) )]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( while v > 0 do ( print v, v=v - 1 ), print v ), v=4]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( while v > 0 do ( print v, v=v - 1 ), print v ), v=4]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( while v > 0 do ( print v, v=v - 1 ), print v )]
+Symbols Table -> {v=4}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( while v > 0 do ( print v, v=v - 1 ), print v )]
+Symbols Table -> {v=4}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 )]
+Symbols Table -> {v=4}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 )]
+Symbols Table -> {v=4}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1, print v]
+Symbols Table -> {v=4}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1, print v]
+Symbols Table -> {v=4}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1]
+Symbols Table -> {v=4}
+Out -> [4]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1]
+Symbols Table -> {v=4}
+Out -> [4]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 )]
+Symbols Table -> {v=3}
+Out -> [4]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 )]
+Symbols Table -> {v=3}
+Out -> [4]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1, print v]
+Symbols Table -> {v=3}
+Out -> [4]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1, print v]
+Symbols Table -> {v=3}
+Out -> [4]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1]
+Symbols Table -> {v=3}
+Out -> [4, 3]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1]
+Symbols Table -> {v=3}
+Out -> [4, 3]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 )]
+Symbols Table -> {v=2}
+Out -> [4, 3]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 )]
+Symbols Table -> {v=2}
+Out -> [4, 3]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1, print v]
+Symbols Table -> {v=2}
+Out -> [4, 3]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1, print v]
+Symbols Table -> {v=2}
+Out -> [4, 3]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1]
+Symbols Table -> {v=2}
+Out -> [4, 3, 2]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1]
+Symbols Table -> {v=2}
+Out -> [4, 3, 2]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 )]
+Symbols Table -> {v=1}
+Out -> [4, 3, 2]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 )]
+Symbols Table -> {v=1}
+Out -> [4, 3, 2]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1, print v]
+Symbols Table -> {v=1}
+Out -> [4, 3, 2]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1, print v]
+Symbols Table -> {v=1}
+Out -> [4, 3, 2]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1]
+Symbols Table -> {v=1}
+Out -> [4, 3, 2, 1]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 ), v=v - 1]
+Symbols Table -> {v=1}
+Out -> [4, 3, 2, 1]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 )]
+Symbols Table -> {v=0}
+Out -> [4, 3, 2, 1]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v > 0 do ( print v, v=v - 1 )]
+Symbols Table -> {v=0}
+Out -> [4, 3, 2, 1]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v]
+Symbols Table -> {v=0}
+Out -> [4, 3, 2, 1]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v]
+Symbols Table -> {v=0}
+Out -> [4, 3, 2, 1]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {v=0}
+Out -> [4, 3, 2, 1, 0]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {v=0}
+Out -> [4, 3, 2, 1, 0]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( v=4, ( while v + 0 do ( print v, v=v - 1 ), print v ) ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=4, ( while v + 0 do ( print v, v=v - 1 ), print v ) ), int  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=4, ( while v + 0 do ( print v, v=v - 1 ), print v ) ), int  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=4, ( while v + 0 do ( print v, v=v - 1 ), print v ) )]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=4, ( while v + 0 do ( print v, v=v - 1 ), print v ) )]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( while v + 0 do ( print v, v=v - 1 ), print v ), v=4]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( while v + 0 do ( print v, v=v - 1 ), print v ), v=4]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( while v + 0 do ( print v, v=v - 1 ), print v )]
+Symbols Table -> {v=4}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( while v + 0 do ( print v, v=v - 1 ), print v )]
+Symbols Table -> {v=4}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v + 0 do ( print v, v=v - 1 )]
+Symbols Table -> {v=4}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, while v + 0 do ( print v, v=v - 1 )]
+Symbols Table -> {v=4}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------

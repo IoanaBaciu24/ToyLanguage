@@ -1,0 +1,840 @@
+Thread id:
+1
+ExeStack:
+[(Ref(int) a;(Fork ((NEW a 420;print read from heap a));Fork ((NEW a 7;print read from heap a))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork ((NEW a 420;print read from heap a));Fork ((NEW a 7;print read from heap a))), Ref(int) a]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork ((NEW a 420;print read from heap a));Fork ((NEW a 7;print read from heap a))), Ref(int) a]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork ((NEW a 420;print read from heap a));Fork ((NEW a 7;print read from heap a)))]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork ((NEW a 420;print read from heap a));Fork ((NEW a 7;print read from heap a)))]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork ((NEW a 7;print read from heap a)), Fork ((NEW a 420;print read from heap a))]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork ((NEW a 7;print read from heap a)), Fork ((NEW a 420;print read from heap a))]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork ((NEW a 7;print read from heap a))]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[(NEW a 420;print read from heap a)]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork ((NEW a 7;print read from heap a))]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[(NEW a 420;print read from heap a)]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[print read from heap a, NEW a 420]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[(NEW a 7;print read from heap a)]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[print read from heap a, NEW a 420]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[(NEW a 7;print read from heap a)]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=420}
+Thread id:
+2
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=420}
+Thread id:
+3
+ExeStack:
+[print read from heap a, NEW a 7]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=420}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=420}
+Thread id:
+2
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=420}
+Thread id:
+3
+ExeStack:
+[print read from heap a, NEW a 7]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=420}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[420]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=1 int}
+Out:
+[420]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+3
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=2 int}
+Out:
+[420]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[420]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=1 int}
+Out:
+[420]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+3
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=2 int}
+Out:
+[420]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[420, 7]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=1 int}
+Out:
+[420, 7]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+3
+ExeStack:
+[]
+SymTable:
+{a=2 int}
+Out:
+[420, 7]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[420, 7]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=1 int}
+Out:
+[420, 7]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+3
+ExeStack:
+[]
+SymTable:
+{a=2 int}
+Out:
+[420, 7]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[420, 7]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=1 int}
+Out:
+[420, 7]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+3
+ExeStack:
+[]
+SymTable:
+{a=2 int}
+Out:
+[420, 7]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+1
+ExeStack:
+[(Ref(int) a;(Fork ((NEW a 420;print read from heap a));Fork ((NEW a 7;print read from heap a))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork ((NEW a 420;print read from heap a));Fork ((NEW a 7;print read from heap a))), Ref(int) a]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork ((NEW a 420;print read from heap a));Fork ((NEW a 7;print read from heap a))), Ref(int) a]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork ((NEW a 420;print read from heap a));Fork ((NEW a 7;print read from heap a)))]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork ((NEW a 420;print read from heap a));Fork ((NEW a 7;print read from heap a)))]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork ((NEW a 7;print read from heap a)), Fork ((NEW a 420;print read from heap a))]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork ((NEW a 7;print read from heap a)), Fork ((NEW a 420;print read from heap a))]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork ((NEW a 7;print read from heap a))]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[(NEW a 420;print read from heap a)]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork ((NEW a 7;print read from heap a))]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[(NEW a 420;print read from heap a)]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[print read from heap a, NEW a 420]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[(NEW a 7;print read from heap a)]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[print read from heap a, NEW a 420]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[(NEW a 7;print read from heap a)]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=420}
+Thread id:
+2
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=420}
+Thread id:
+3
+ExeStack:
+[print read from heap a, NEW a 7]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=420}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=420}
+Thread id:
+2
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=420}
+Thread id:
+3
+ExeStack:
+[print read from heap a, NEW a 7]
+SymTable:
+{a=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=420}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[420]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=1 int}
+Out:
+[420]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+3
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=2 int}
+Out:
+[420]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[420]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=1 int}
+Out:
+[420]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+3
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=2 int}
+Out:
+[420]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0 int}
+Out:
+[420, 7]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=1 int}
+Out:
+[420, 7]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}
+Thread id:
+3
+ExeStack:
+[]
+SymTable:
+{a=2 int}
+Out:
+[420, 7]
+FileTable:
+{}
+HeapTable
+{1=420, 2=7}

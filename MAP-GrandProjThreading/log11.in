@@ -1,0 +1,2160 @@
+Thread id:
+11
+ExeStack:
+[(int v;(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))), Ref(int) a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))), Ref(int) a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))), v=10]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))), v=10]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))), print v]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))), print v]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v)), Fork ((NEW a 22;print read from heap a))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v)), Fork ((NEW a 22;print read from heap a))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+12
+ExeStack:
+[(NEW a 22;print read from heap a)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+12
+ExeStack:
+[(NEW a 22;print read from heap a)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+12
+ExeStack:
+[print read from heap a, NEW a 22]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+13
+ExeStack:
+[(v=20;print v)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+12
+ExeStack:
+[print read from heap a, NEW a 22]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+13
+ExeStack:
+[(v=20;print v)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+12
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+13
+ExeStack:
+[print v, v=20]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+12
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+13
+ExeStack:
+[print v, v=20]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+12
+ExeStack:
+[]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+13
+ExeStack:
+[print v]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+13
+ExeStack:
+[print v]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+13
+ExeStack:
+[]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22, 20]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+11
+ExeStack:
+[(int v;(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))), Ref(int) a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))), Ref(int) a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))), v=10]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))), v=10]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))), print v]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))), print v]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v)), Fork ((NEW a 22;print read from heap a))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v)), Fork ((NEW a 22;print read from heap a))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[(NEW a 22;print read from heap a)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[(NEW a 22;print read from heap a)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[print read from heap a, NEW a 22]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+15
+ExeStack:
+[(v=20;print v)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[print read from heap a, NEW a 22]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+15
+ExeStack:
+[(v=20;print v)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[print v, v=20]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+14
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[print v, v=20]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+14
+ExeStack:
+[]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[print v]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[print v]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22, 20]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+11
+ExeStack:
+[(int v;(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))), Ref(int) a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))), Ref(int) a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))), v=10]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))), v=10]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))), print v]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))), print v]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v)), Fork ((NEW a 22;print read from heap a))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v)), Fork ((NEW a 22;print read from heap a))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[(NEW a 22;print read from heap a)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[(NEW a 22;print read from heap a)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[print read from heap a, NEW a 22]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+15
+ExeStack:
+[(v=20;print v)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[print read from heap a, NEW a 22]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+15
+ExeStack:
+[(v=20;print v)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[print v, v=20]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+14
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[print v, v=20]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+14
+ExeStack:
+[]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[print v]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[print v]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22, 20]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+11
+ExeStack:
+[(int v;(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))), Ref(int) a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))), Ref(int) a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))), v=10]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))), v=10]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))), print v]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))), print v]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v)), Fork ((NEW a 22;print read from heap a))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v)), Fork ((NEW a 22;print read from heap a))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[(NEW a 22;print read from heap a)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[(NEW a 22;print read from heap a)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[print read from heap a, NEW a 22]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+15
+ExeStack:
+[(v=20;print v)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[print read from heap a, NEW a 22]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+15
+ExeStack:
+[(v=20;print v)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+14
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[print v, v=20]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+14
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[print v, v=20]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+14
+ExeStack:
+[]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[print v]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[print v]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22, 20]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+11
+ExeStack:
+[(int v;(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Ref(int) a;(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))))]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))), Ref(int) a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))), Ref(int) a]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(v=10;(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))))]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))), v=10]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))), v=10]
+SymTable:
+{a=0 int, v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(print v;(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))), print v]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v))), print v]
+SymTable:
+{a=0 int, v=10}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[(Fork ((NEW a 22;print read from heap a));Fork ((v=20;print v)))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v)), Fork ((NEW a 22;print read from heap a))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v)), Fork ((NEW a 22;print read from heap a))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+15
+ExeStack:
+[(NEW a 22;print read from heap a)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[Fork ((v=20;print v))]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+15
+ExeStack:
+[(NEW a 22;print read from heap a)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+11
+ExeStack:
+[]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+15
+ExeStack:
+[print read from heap a, NEW a 22]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+16
+ExeStack:
+[(v=20;print v)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+15
+ExeStack:
+[print read from heap a, NEW a 22]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+16
+ExeStack:
+[(v=20;print v)]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+15
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+16
+ExeStack:
+[print v, v=20]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[print read from heap a]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+16
+ExeStack:
+[print v, v=20]
+SymTable:
+{a=0 int, v=10}
+Out:
+[10]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+15
+ExeStack:
+[]
+SymTable:
+{a=1 int, v=10}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+16
+ExeStack:
+[print v]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+16
+ExeStack:
+[print v]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22]
+FileTable:
+{}
+HeapTable
+{1=22}
+Thread id:
+16
+ExeStack:
+[]
+SymTable:
+{a=0 int, v=20}
+Out:
+[10, 22, 20]
+FileTable:
+{}
+HeapTable
+{1=22}

@@ -1,0 +1,288 @@
+Thread id:
+1
+ExeStack:
+[(Ref(int) v;(NEW v 20;(Ref(Ref(int)) a;(NEW a v;(NEW v 30;print read from heap read from heap a)))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(NEW v 20;(Ref(Ref(int)) a;(NEW a v;(NEW v 30;print read from heap read from heap a)))), Ref(int) v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(NEW v 20;(Ref(Ref(int)) a;(NEW a v;(NEW v 30;print read from heap read from heap a)))), Ref(int) v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(NEW v 20;(Ref(Ref(int)) a;(NEW a v;(NEW v 30;print read from heap read from heap a))))]
+SymTable:
+{v=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(NEW v 20;(Ref(Ref(int)) a;(NEW a v;(NEW v 30;print read from heap read from heap a))))]
+SymTable:
+{v=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Ref(Ref(int)) a;(NEW a v;(NEW v 30;print read from heap read from heap a))), NEW v 20]
+SymTable:
+{v=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Ref(Ref(int)) a;(NEW a v;(NEW v 30;print read from heap read from heap a))), NEW v 20]
+SymTable:
+{v=0 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Ref(Ref(int)) a;(NEW a v;(NEW v 30;print read from heap read from heap a)))]
+SymTable:
+{v=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20}
+Thread id:
+1
+ExeStack:
+[(Ref(Ref(int)) a;(NEW a v;(NEW v 30;print read from heap read from heap a)))]
+SymTable:
+{v=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20}
+Thread id:
+1
+ExeStack:
+[(NEW a v;(NEW v 30;print read from heap read from heap a)), Ref(Ref(int)) a]
+SymTable:
+{v=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20}
+Thread id:
+1
+ExeStack:
+[(NEW a v;(NEW v 30;print read from heap read from heap a)), Ref(Ref(int)) a]
+SymTable:
+{v=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20}
+Thread id:
+1
+ExeStack:
+[(NEW a v;(NEW v 30;print read from heap read from heap a))]
+SymTable:
+{a=0 Ref(int), v=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20}
+Thread id:
+1
+ExeStack:
+[(NEW a v;(NEW v 30;print read from heap read from heap a))]
+SymTable:
+{a=0 Ref(int), v=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20}
+Thread id:
+1
+ExeStack:
+[(NEW v 30;print read from heap read from heap a), NEW a v]
+SymTable:
+{a=0 Ref(int), v=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20}
+Thread id:
+1
+ExeStack:
+[(NEW v 30;print read from heap read from heap a), NEW a v]
+SymTable:
+{a=0 Ref(int), v=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20}
+Thread id:
+1
+ExeStack:
+[(NEW v 30;print read from heap read from heap a)]
+SymTable:
+{a=2 Ref(int), v=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20, 2=1 int}
+Thread id:
+1
+ExeStack:
+[(NEW v 30;print read from heap read from heap a)]
+SymTable:
+{a=2 Ref(int), v=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20, 2=1 int}
+Thread id:
+1
+ExeStack:
+[print read from heap read from heap a, NEW v 30]
+SymTable:
+{a=2 Ref(int), v=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20, 2=1 int}
+Thread id:
+1
+ExeStack:
+[print read from heap read from heap a, NEW v 30]
+SymTable:
+{a=2 Ref(int), v=1 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20, 2=1 int}
+Thread id:
+1
+ExeStack:
+[print read from heap read from heap a]
+SymTable:
+{a=2 Ref(int), v=3 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20, 2=1 int, 3=30}
+Thread id:
+1
+ExeStack:
+[print read from heap read from heap a]
+SymTable:
+{a=2 Ref(int), v=3 int}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{1=20, 2=1 int, 3=30}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=2 Ref(int), v=3 int}
+Out:
+[20]
+FileTable:
+{}
+HeapTable
+{1=20, 2=1 int, 3=30}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=2 Ref(int), v=3 int}
+Out:
+[20]
+FileTable:
+{}
+HeapTable
+{1=20, 2=1 int, 3=30}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=2 Ref(int), v=3 int}
+Out:
+[20]
+FileTable:
+{}
+HeapTable
+{1=20, 2=1 int, 3=30}

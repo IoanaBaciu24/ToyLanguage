@@ -1,0 +1,1296 @@
+Thread id:
+1
+ExeStack:
+[(int a;(int b;(Fork (Fork (print a));Fork (print b))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print a));Fork (print b))), int a]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print a));Fork (print b))), int a]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print a));Fork (print b)))]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print a));Fork (print b)))]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print a));Fork (print b)), int b]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print a));Fork (print b)), int b]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print a));Fork (print b))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print a));Fork (print b))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b), Fork (Fork (print a))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b), Fork (Fork (print a))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[Fork (print a)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[Fork (print a)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[print b]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+4
+ExeStack:
+[print a]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[print b]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+4
+ExeStack:
+[print a]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, 0]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, 0]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, 0]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+4
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, 0]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int a;(int b;(Fork (Fork (print a));Fork (print b))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print a));Fork (print b))), int a]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print a));Fork (print b))), int a]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print a));Fork (print b)))]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print a));Fork (print b)))]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print a));Fork (print b)), int b]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print a));Fork (print b)), int b]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print a));Fork (print b))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print a));Fork (print b))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b), Fork (Fork (print a))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b), Fork (Fork (print a))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[Fork (print a)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[Fork (print a)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[print b]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+4
+ExeStack:
+[print a]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[print b]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+4
+ExeStack:
+[print a]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, 0]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, 0]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, 0]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+4
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, 0]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int a;(int b;(Fork (Fork (print c));Fork (print b))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print c));Fork (print b))), int a]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print c));Fork (print b))), int a]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print c));Fork (print b)))]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print c));Fork (print b)))]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print c));Fork (print b)), int b]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print c));Fork (print b)), int b]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print c));Fork (print b))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print c));Fork (print b))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b), Fork (Fork (print c))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b), Fork (Fork (print c))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[Fork (print c)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[Fork (print c)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[print b]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+4
+ExeStack:
+[print c]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[print b]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+4
+ExeStack:
+[print c]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, null]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, null]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, null]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+4
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, null]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int a;(int b;(Fork (Fork (print a));Fork (print b))))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print a));Fork (print b))), int a]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print a));Fork (print b))), int a]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print a));Fork (print b)))]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int b;(Fork (Fork (print a));Fork (print b)))]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print a));Fork (print b)), int b]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print a));Fork (print b)), int b]
+SymTable:
+{a=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print a));Fork (print b))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(Fork (Fork (print a));Fork (print b))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b), Fork (Fork (print a))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b), Fork (Fork (print a))]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[Fork (print a)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[Fork (print b)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[Fork (print a)]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[print b]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+4
+ExeStack:
+[print a]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[print b]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+4
+ExeStack:
+[print a]
+SymTable:
+{a=0, b=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, 0]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, 0]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+3
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, 0]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+4
+ExeStack:
+[]
+SymTable:
+{a=0, b=0}
+Out:
+[0, 0]
+FileTable:
+{}
+HeapTable
+{}

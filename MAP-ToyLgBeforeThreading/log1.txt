@@ -1,0 +1,154 @@
+Execution Stack -> [( int  v, ( v=2, print v ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=2, print v ), int  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=2, print v ), int  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=2, print v )]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=2, print v )]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, v=2]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, v=2]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v]
+Symbols Table -> {v=2}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v]
+Symbols Table -> {v=2}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {v=2}
+Out -> [2]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {v=2}
+Out -> [2]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  v, ( v=2, print v ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=2, print v ), int  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=2, print v ), int  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=2, print v )]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( v=2, print v )]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, v=2]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v, v=2]
+Symbols Table -> {v=0}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v]
+Symbols Table -> {v=2}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print v]
+Symbols Table -> {v=2}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {v=2}
+Out -> [2]
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {v=2}
+Out -> [2]
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------

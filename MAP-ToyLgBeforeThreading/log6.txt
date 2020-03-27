@@ -1,0 +1,399 @@
+Execution Stack -> [( Ref(int)  v, ( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ) ) ) ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ) ) ) ), Ref(int)  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ) ) ) ), Ref(int)  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ) ) ) )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ) ) ) )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ) ) ), new( v, 20 )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ) ) ), new( v, 20 )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ) ) )]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ) ) )]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ) ), Ref(Ref(int))  a]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ) ), Ref(Ref(int))  a]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ) )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ) )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ), new( a, v )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 ), new( a, v )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print  readFromHeap v, print  readFromHeap  readFromHeap a  5 )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print  readFromHeap  readFromHeap a  5, print  readFromHeap v]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print  readFromHeap  readFromHeap a  5, print  readFromHeap v]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print  readFromHeap  readFromHeap a  5]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> [20]
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print  readFromHeap  readFromHeap a  5]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> [20]
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> [20]
+FileTable -> {}
+Heap -> Container.Heap@53f65459
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(int)  v, ( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ) ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ) ), Ref(int)  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ) ), Ref(int)  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ) )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ) )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ), new( v, 20 )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ), new( v, 20 )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) )]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) )]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ), Ref(Ref(int))  a]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ), Ref(Ref(int))  a]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ), new( a, v )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ), new( a, v )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print  readFromHeap  readFromHeap a + 5, print  readFromHeap v]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print  readFromHeap  readFromHeap a + 5, print  readFromHeap v]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print  readFromHeap  readFromHeap a + 5]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> [20]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [print  readFromHeap  readFromHeap a + 5]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> [20]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> [20]
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(int)  v, ( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ) ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ) ), Ref(int)  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ) ), Ref(int)  v]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ) )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( v, 20 ), ( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ) )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ), new( v, 20 )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) ), new( v, 20 )]
+Symbols Table -> {v=locType int at addr 0}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) )]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( Ref(Ref(int))  a, ( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ) )]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ), Ref(Ref(int))  a]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) ), Ref(Ref(int))  a]
+Symbols Table -> {v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( new( a, v ), ( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ) )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ), new( a, v )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print  readFromHeap v, print  readFromHeap  readFromHeap a + 5 ), new( a, v )]
+Symbols Table -> {a=locType Ref(int) at addr 0, v=locType Ref(int) at addr 1}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@520a3426
+
+--------------------------------------------------------------------------------

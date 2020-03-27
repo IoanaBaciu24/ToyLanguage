@@ -1,0 +1,302 @@
+ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))))]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))), varf=leTest.txt]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))), opening varf]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@53b32d7}ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))), int varc]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@53b32d7}ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@53b32d7}ExeStack:
+[(print varc;(reading varc varf;(print varc;close varf))), reading varc varf]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@53b32d7}ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))))]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))), varf=leTest.txt]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))), opening varf]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))), int varc]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(print varc;(reading varc varf;(print varc;close varf))), reading varc varf]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(print varc;(reading varc varf;(print varc;close varf)))]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(reading varc varf;(print varc;close varf)), print varc]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(reading varc varf;(print varc;close varf))]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[0]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(print varc;close varf), reading varc varf]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[0]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(print varc;close varf)]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[0]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[close varf, print varc]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[0]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[close varf]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[0, 0]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[0, 0]
+FileTable:
+{}ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))), string varf]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(varf=leTest.txt;(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))))]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))), varf=leTest.txt]
+SymTable:
+{varf=}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(opening varf;(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))), opening varf]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{}ExeStack:
+[(int varc;(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))))]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf)))), int varc]
+SymTable:
+{varf=leTest.txt}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(reading varc varf;(print varc;(reading varc varf;(print varc;close varf))))]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(print varc;(reading varc varf;(print varc;close varf))), reading varc varf]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(print varc;(reading varc varf;(print varc;close varf)))]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(reading varc varf;(print varc;close varf)), print varc]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(reading varc varf;(print varc;close varf))]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[0]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(print varc;close varf), reading varc varf]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[0]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[(print varc;close varf)]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[0]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[close varf, print varc]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[0]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[close varf]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[0, 0]
+FileTable:
+{leTest.txt=java.io.BufferedReader@6325a3ee}ExeStack:
+[]
+SymTable:
+{varf=leTest.txt, varc=0}
+Out:
+[0, 0]
+FileTable:
+{}

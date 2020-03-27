@@ -1,0 +1,3132 @@
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+2
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(int v;(v=2;print v))]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v), int v]
+SymTable:
+{}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[(v=2;print v)]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v, v=2]
+SymTable:
+{v=0}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[print v]
+SymTable:
+{v=2}
+Out:
+[]
+FileTable:
+{}
+HeapTable
+{}
+Thread id:
+1
+ExeStack:
+[]
+SymTable:
+{v=2}
+Out:
+[2]
+FileTable:
+{}
+HeapTable
+{}

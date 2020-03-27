@@ -1,0 +1,490 @@
+Execution Stack -> [( string  varf, ( varf=test.txt, ( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ) ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varf=test.txt, ( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ) ), string  varf]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varf=test.txt, ( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ) ), string  varf]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varf=test.txt, ( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ) )]
+Symbols Table -> {varf=}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varf=test.txt, ( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ) )]
+Symbols Table -> {varf=}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ), varf=test.txt]
+Symbols Table -> {varf=}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ), varf=test.txt]
+Symbols Table -> {varf=}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) )]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) )]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ), open varf]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ), open varf]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) )]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) )]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ), int  varc]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ), int  varc]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) )]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) )]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, ( varc varf, ( print varc, close varf ) ) ), varc varf]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, ( varc varf, ( print varc, close varf ) ) ), varc varf]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, ( varc varf, ( print varc, close varf ) ) )]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, ( varc varf, ( print varc, close varf ) ) )]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, close varf ) ), print varc]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, close varf ) ), print varc]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, close varf ) )]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, close varf ) )]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, close varf ), varc varf]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, close varf ), varc varf]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, close varf )]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, close varf )]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [close varf, print varc]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [close varf, print varc]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [close varf]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7, 0]
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [close varf]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7, 0]
+FileTable -> {test.txt=java.io.BufferedReader@2a17b7b6}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7, 0]
+FileTable -> {}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7, 0]
+FileTable -> {}
+Heap -> Container.Heap@67205a84
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( string  varf, ( varf=test.txt, ( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ) ) )]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varf=test.txt, ( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ) ), string  varf]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varf=test.txt, ( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ) ), string  varf]
+Symbols Table -> {}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varf=test.txt, ( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ) )]
+Symbols Table -> {varf=}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varf=test.txt, ( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ) )]
+Symbols Table -> {varf=}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ), varf=test.txt]
+Symbols Table -> {varf=}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) ), varf=test.txt]
+Symbols Table -> {varf=}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) )]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( open varf, ( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ) )]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ), open varf]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) ), open varf]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) )]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( int  varc, ( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ) )]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ), int  varc]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) ), int  varc]
+Symbols Table -> {varf=test.txt}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) )]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, ( varc varf, ( print varc, close varf ) ) ) )]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, ( varc varf, ( print varc, close varf ) ) ), varc varf]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, ( varc varf, ( print varc, close varf ) ) ), varc varf]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, ( varc varf, ( print varc, close varf ) ) )]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, ( varc varf, ( print varc, close varf ) ) )]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, close varf ) ), print varc]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, close varf ) ), print varc]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> []
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, close varf ) )]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( varc varf, ( print varc, close varf ) )]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, close varf ), varc varf]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, close varf ), varc varf]
+Symbols Table -> {varf=test.txt, varc=7}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, close varf )]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [( print varc, close varf )]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [close varf, print varc]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [close varf, print varc]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7]
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [close varf]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7, 0]
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> [close varf]
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7, 0]
+FileTable -> {test.txt=java.io.BufferedReader@6737fd8f}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7, 0]
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
+Execution Stack -> []
+Symbols Table -> {varf=test.txt, varc=0}
+Out -> [7, 0]
+FileTable -> {}
+Heap -> {}
+
+--------------------------------------------------------------------------------
